@@ -6,7 +6,7 @@ import battlecode.common.RobotInfo;
 import battlecode.common.RobotType;
 
 public class Archon {
-
+//lololSTARCRAFT
 	public static void doArchonStuff(RobotController myRC)
 	{
 		while(true)
